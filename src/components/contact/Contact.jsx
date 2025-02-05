@@ -6,15 +6,26 @@ import './contact.css';
 const Contact = () => {
   const [message, setMessage] = useState(false);
   const formRef = useRef();
+
   const handleSubmit = (e) => {
     e.preventDefault();
     setMessage(true);
+
+    // Add additional template parameters
+    const templateParams = {
+      to_name: 'Mohamed Said Boufanzi', // Your name or recipient's name
+      from_name: e.target.user_name.value, // From the form input
+      message: e.target.message.value, // From the form input
+      reply_to: e.target.user_email.value, // Optional: For reply-to email
+    };
+
     emailjs
       .sendForm(
-        'service_k2qawqh',
-        'template_c6rkpn6',
+        'service_8n74gqt',       // Your NEW EmailJS Service ID
+        'template_y9t41ll',      // Your EmailJS Template ID
         formRef.current,
-        'X7K7ebhIeOy3YwHki'
+        'lsl6VD_5dNrdvy4Zd',     // Your EmailJS Public Key
+        templateParams           // Pass the template parameters
       )
       .then(
         (result) => {
@@ -27,6 +38,7 @@ const Contact = () => {
 
     e.target.reset();
   };
+
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
@@ -36,8 +48,8 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>merigogichashvili13@gmail.com</h5>
-            <a href="mailto:merigogichashvili13@gmail.com">Send a message</a>
+            <h5>mohameds.boufanzi@gmail.com</h5> {/* Your email */}
+            <a href="mailto:mohameds.boufanzi@gmail.com">Send a message</a> {/* Your email */}
           </article>
         </div>
         <form ref={formRef} onSubmit={handleSubmit}>
