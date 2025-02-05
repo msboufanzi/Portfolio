@@ -16,13 +16,13 @@ const Testimonials = () => {
     {
       id: 1,
       link: 'https://www.linkedin.com/in/ben-hamda-saber-22b2ab254/',
-      name: 'Ben Hamda SaberView Ben Hamda Saber’s profile ',
+      name: 'Ben Hamda Saber ',
       role: 'Full-Stack Web Developer. JavaScript | Rails | React | Redux. Improving open-source projects, one commit at a time.',
       test: 'As a developer and problem solver, I find Boufanzi to be an excellent collaborative partner. I first worked with Mohamed Said on basic JavaScript and React projects, and since then, they have made remarkable progress in their understanding of the development process. Boufanzi maintains a highly professional environment, with excellent audio and video quality, making communication seamless and efficient.',
     },
     {
       id: 2,
-      link: 'https://www.linkedin.com/in/junior-josias-bambara-10a7661b9/',
+      link: 'https://www.linkedin.com/in/junior-josias-bambara-10a7661b9',
       name: 'Junior Josias Bambara',
       role: 'Full-stack developer | Technical Support Engineer at CodeAlpha',
       test: "It was a pleasure collaborating with Mohamed Said Boufanzi on various projects. One of the things that stands out about him is his relentless drive to improve—even after completing projects, he seeks out additional resources to deepen his knowledge. Working with him is effortless and comfortable, as if you’re collaborating with someone you’ve known for years.",
