@@ -15,17 +15,17 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      link: 'https://www.linkedin.com/in/uzairali19/',
-      name: 'Uzair Ali',
+      link: 'https://www.linkedin.com/in/ben-hamda-saber-22b2ab254/',
+      name: 'Ben Hamda SaberView Ben Hamda Saber’s profile ',
       role: 'Full-Stack Web Developer. JavaScript | Rails | React | Redux. Improving open-source projects, one commit at a time.',
-      test: 'As a developer and a problem solver, I think Meri is a great collaborative partner to have. I met Meri in some basic javascript & react projects and since then she has drastically progressed in her understanding of the development process. She always has a professional environment and has good audio and video quality which makes it easier to communicate with her.',
+      test: 'As a developer and problem solver, I find Boufanzi to be an excellent collaborative partner. I first worked with Mohamed Said on basic JavaScript and React projects, and since then, they have made remarkable progress in their understanding of the development process. Boufanzi maintains a highly professional environment, with excellent audio and video quality, making communication seamless and efficient.',
     },
     {
       id: 2,
-      link: 'https://www.linkedin.com/in/yishak-wesego/',
-      name: 'Yishak Wesego',
-      role: 'Full-stack developer | Technical Support Engineer at Microverse',
-      test: "It was a pleasure collaborating with Meri on different projects. One of the things that I think is special about her is that she never settles, even after completing the projects she finds other resources and strengthens her knowledge. Collaborating with her is easy and comfortable, it's like working with someone you've known for a long period of time.",
+      link: 'https://www.linkedin.com/in/junior-josias-bambara-10a7661b9/',
+      name: 'Junior Josias Bambara',
+      role: 'Full-stack developer | Technical Support Engineer at CodeAlpha',
+      test: "It was a pleasure collaborating with Mohamed Said Boufanzi on various projects. One of the things that stands out about him is his relentless drive to improve—even after completing projects, he seeks out additional resources to deepen his knowledge. Working with him is effortless and comfortable, as if you’re collaborating with someone you’ve known for years.",
     },
     {
       id: 3,

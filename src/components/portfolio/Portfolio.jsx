@@ -1,5 +1,5 @@
 import React from 'react';
-import IMG1 from '../../assets/alc.png';
+import IMG1 from '../../assets/img1.png';
 import IMG2 from '../../assets/todo.png';
 import IMG3 from '../../assets/shelter.png';
 import IMG4 from '../../assets/fake.png';
@@ -12,13 +12,13 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: 'Adventist Learning Center',
+      title: 'Tech Horizon - Online Magazine Management',
       img: IMG1,
       description:
-        'Adventist Learning Center provides quality education to Syrian and Kurdish Refugees living in Beirut, Lebanon. This simple website was built to reach a bigger audience and ease the process of gathering donations for the ALC students.',
-      technologies: 'Ruby on Rails | SCSS',
-      link: 'https://adventistlearningcenter-257375ab1970.herokuapp.com/',
-      github: 'https://github.com/Meri-MG/school',
+        'Tech Horizon is a web application designed to manage an online magazine focused on advanced technologies. The application provides a personalized and intuitive user experience, allowing subscribers, contributors, and administrators to actively participate in content dissemination and management. The platform is built using modern web technologies and follows the MVC architecture to ensure a clean and maintainable codebase.',
+      technologies: 'PHP Laravel | html,css,js',
+      // link: 'https://adventistlearningcenter-257375ab1970.herokuapp.com/',
+      github: 'https://github.com/msboufanzi/tech-Horizon',
     },
     {
       id: 2,
@@ -36,8 +36,8 @@ const Portfolio = () => {
       img: IMG2,
       description: 'User friendly app to plan your day and manage tasks',
       technologies: 'JavaScript | Webpack',
-      link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: 'https://github.com/Meri-MG/To-Do-List',
+      // link: 'https://meri-mg.github.io/To-Do-List/dist/',
+      github: 'https://github.com/msboufanzi/to-do-liste',
     },
     {
       id: 4,
