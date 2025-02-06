@@ -61,13 +61,13 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      title: 'Math Resource',
+      title: 'Portfolio',
       img: IMG6,
       description:
-        'Real-world group project which is still in progress and will provide educational platform for future young developers',
-      technologies: 'JavaScript | Scss | Python',
-      link: 'https://lukinoo.github.io/math-resource/',
-      github: 'https://github.com/lukinoo/math-resource',
+        'Simple portfolio that shows my skills n project , with a small presentation of my self , with a picture of me, the blue is the main color in this react project',
+      technologies: 'React js | css ',
+      link: 'https://msboufanzi.github.io/Portfolio/',
+      github: 'https://github.com/msboufanzi/Portfolio/',
     },
   ];
 
