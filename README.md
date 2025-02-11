@@ -28,7 +28,7 @@
 
 - Clone this [repository](https://github.com/msboufanzi/Portfolio/) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git clone https://github.com/msboufanzi/Portfolio/
   ```
 
 - Navigate to `cd portfolio---react`  directory.
@@ -47,10 +47,6 @@
 
 :woman: **MOHAMED SAID BOUFANZZI**
 
-
-## 🤝 Contributing
-- Contributions, issues, and feature requests are welcome!
-- 
 # Show your support
 Give a ⭐ if you like this project!
 
