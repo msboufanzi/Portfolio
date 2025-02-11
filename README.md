@@ -1,8 +1,6 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
-
 ## Built With
 
 - React
@@ -11,7 +9,7 @@
 
 ## Live Demo
 
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
+- [Live Demo](https://msboufanzi.github.io/Portfolio/)
 
 
 # Getting Started
@@ -28,7 +26,7 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/msboufanzi/Portfolio/) to your local machine 
 - ```
   git clone git@github.com:Meri-MG/portfolio---react.git
   ```
@@ -47,17 +45,12 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:woman: **MOHAMED SAID BOUFANZZI**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
-
+- 
 # Show your support
 Give a ⭐ if you like this project!
 
-# Acknowledgments
-Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
