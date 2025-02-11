@@ -5,7 +5,6 @@
 
 - React
 - CSS
-- VS code
 
 ## Live Demo
 
