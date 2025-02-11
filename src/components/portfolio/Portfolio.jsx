@@ -15,7 +15,7 @@ const Portfolio = () => {
       title: 'Tech Horizon - Online Magazine Management',
       img: IMG1,
       description:
-        'Tech Horizon is a web application designed to manage an online magazine focused on advanced technologies. The application provides a personalized and intuitive user experience, allowing subscribers, contributors, and administrators to actively participate in content dissemination and management. The platform is built using modern web technologies and follows the MVC architecture to ensure a clean and maintainable codebase.',
+        'Tech Horizon is a web application designed to manage an online magazine focused on advanced technologies. The application provides a personalized and intuitive user experience, allowing subscribers, contributors, and administrators to actively participate in content dissemination and management.',
       technologies: 'PHP Laravel | html,css,js',
       // link: 'https://adventistlearningcenter-257375ab1970.herokuapp.com/',
       github: 'https://github.com/msboufanzi/tech-Horizon',
@@ -51,13 +51,13 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: 'World News',
+      title: 'Unilink',
       img: IMG5,
       description:
-        'Fully responsive interactive website built based on Adobe XD design',
-      technologies: 'JavaScript | CSS',
-      link: 'https://meri-mg.github.io/Unilab-world-news/',
-      github: 'https://github.com/Meri-MG/Unilab-world-news',
+        'UniLink: A Digital Collaboration Platform Connects UIR students across diverse fields for academic projects. Allows students to showcase skills and find peers with expertise. Provides part-time job opportunities. Enhances learning, practical experience, and employability.',
+      technologies: ' Next.js | Tailwind CSS | Node.js |MongoDB',
+      link: 'https://unilink-freelance-4fdy.vercel.app/',
+      github: 'https://github.com/msboufanzi/Unilink-freelance',
     },
     {
       id: 6,
