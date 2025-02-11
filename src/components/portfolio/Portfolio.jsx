@@ -1,10 +1,10 @@
 import React from 'react';
-import IMG1 from '../../assets/img1.png';
+import IMG1 from '../../assets/techhorizon.png';
 import IMG2 from '../../assets/todo.png';
 import IMG3 from '../../assets/shelter.png';
-import IMG4 from '../../assets/fake.png';
-import IMG5 from '../../assets/news.png';
-import IMG6 from '../../assets/math.png';
+import IMG4 from '../../assets/mazec++.png';
+import IMG5 from '../../assets/unilink.png';
+import IMG6 from '../../assets/portfolio.png';
 
 import './portfolio.css';
 
@@ -22,13 +22,12 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: 'FakeStore',
+      title: 'C++ Maze Game 🎮',
       img: IMG4,
       description:
-        'FakeStore app that provides information about available products and their details',
-      technologies: 'React | Redux',
-      link: 'https://fakestore-metrics.netlify.app/',
-      github: 'https://github.com/Meri-MG/Fakestore---react',
+        'Welcome to the C++ Maze Game repository! This project showcases the journey of developing a dynamic maze game with exciting features like randomly generated enemies, weapons, and advanced logic for balanced gameplay.',
+      technologies: 'c++ | Raylib',
+      github: 'https://github.com/AbdoKujo/Star-Wars-Maze',
     },
     {
       id: 3,
@@ -46,8 +45,8 @@ const Portfolio = () => {
       description:
         'Fully responsive interactive website built based on Figma design',
       technologies: 'JavaScript | CSS',
-      link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
-      github: 'https://github.com/Meri-MG/shelter',
+      // link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
+      // github: 'https://github.com/Meri-MG/shelter',
     },
     {
       id: 5,
